@@ -21,5 +21,5 @@ Models :
     -Staff_User
         - CRUD reservation (all reservation)
 
-<a herf="https://pakizekilic.pythonanywhere.com/"> live of the project </a>
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+# Live Project
+<a herf="https://pakizekilic.pythonanywhere.com">Live of the project</a>
