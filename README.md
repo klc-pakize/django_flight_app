@@ -22,4 +22,4 @@ Models :
         - CRUD reservation (all reservation)
 
 # Live Project
-<a herf="https://pakizekilic.pythonanywhere.com">Live of the project</a>
+<a href="https://pakizekilic.pythonanywhere.com">Live of the project</a>
