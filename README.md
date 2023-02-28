@@ -23,3 +23,5 @@ Models :
 
 # Live Project
 <a href="https://pakizekilic.pythonanywhere.com">Live of the project</a>
+<a href="https://pakizekilic.pythonanywhere.com/swagger/">For the swagger of the project</a>
+
