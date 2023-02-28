@@ -22,3 +22,4 @@ Models :
         - CRUD reservation (all reservation)
 
 <a herf="https://pakizekilic.pythonanywhere.com/"> live of the project </a>
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
