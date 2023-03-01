@@ -8,6 +8,8 @@
 - Reservation
 - Passenger
 
+![Model](https://github.com/klc-pakize/django_flight_app/blob/master/FlightReservationERD.png)
+
 # Flight
 
     - Client_User
