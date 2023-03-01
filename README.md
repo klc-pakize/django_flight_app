@@ -1,5 +1,7 @@
 # Description
 <p> In this project, it is aimed to create an application users can create, update, delete or read reservations. Nested serializers are used to create objects on two different tables at the same time. Also, we used class-based views and overridden some methods to create custom functionalities.</p>
+
+
 # Models 
 
 - Flight
